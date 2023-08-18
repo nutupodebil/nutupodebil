@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C++ , math and physics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
+    --
     -- e-mail: vladimirzh09@gmail.com
     --
     -- telegram: https://t.me/vladimir_zhu
